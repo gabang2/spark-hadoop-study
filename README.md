@@ -1,2 +1,4 @@
-# spark-hadoop_study
-패스트캠퍼스 빅데이터처리 with spark&amp;Hadoop (114hours)
+# spark-hadoop-study
+
+- 매주 3회 이상 강의 2시간 보기
+- 참여자 : [Kimseeun](https://github.com/seeunk00)

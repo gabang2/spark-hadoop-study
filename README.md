@@ -8,7 +8,7 @@
 ### Part 1. 꼭 알아야 하는 기초 개념
 |Part 1. 꼭 알아야 하는 기초 개념|Kim Gayeong|Kim Seeun|
 |:---|:---:|:---:|
-|Ch 01. 빅데이터 처리 입문하기|[링크]()|[링크]()|
+|Ch 01. 빅데이터 처리 입문하기|[링크](https://www.notion.so/gabang2/065028c4bf7d4eebb3dba0b1413a259c)|[링크]()|
 |CH 02. Apache Spark 기초|[링크]()|[링크]()|
 
 

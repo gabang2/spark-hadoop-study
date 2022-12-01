@@ -9,26 +9,26 @@
 |Part 1. 꼭 알아야 하는 기초 개념|Kim Gayeong|Kim Seeun|
 |:---|:---:|:---:|
 |Ch 01. 빅데이터 처리 입문하기|[링크](https://www.notion.so/gabang2/065028c4bf7d4eebb3dba0b1413a259c)|[링크]()|
-|CH 02. Apache Spark 기초|[링크]()|[링크]()|
+|CH 02. Apache Spark 기초|||
 
 
 ### Part 2. Spark 기초와 핵심
 |Part 2. Spark 기초와 핵심|Kim Gayeong|Kim Seeun|
 |:---|:---:|:---:|
-|Ch 01. Spark Core|[링크]()|[링크]()|
-|CH 02. Spark SQL|[링크]()|[링크]()|
-|CH 03. Spark Streaming|[링크]()|[링크]()|
-|CH 04. Spark ML|[링크]()|[링크]()|
-|CH 05. Graph X|[링크]()|[링크]()|
+|Ch 01. Spark Core|||
+|CH 02. Spark SQL|||
+|CH 03. Spark Streaming|||
+|CH 04. Spark ML|||
+|CH 05. Graph X|||
 
 ### Part 3. Spark & Hadoop Ecosystem
 |Part 3. Spark & Hadoop Ecosystem|Kim Gayeong|Kim Seeun|
 |:---|:---:|:---:|
-|Ch 01. Spark Ecosystem|[링크]()|[링크]()|
-|CH 02. Hadoop Ecosystem|[링크]()|[링크]()|
+|Ch 01. Spark Ecosystem|||
+|CH 02. Hadoop Ecosystem|||
 
 ### Part 4. 종합 프로젝트
 |Part 4. 종합 프로젝트|Kim Gayeong|Kim Seeun|
 |:---|:---:|:---:|
-|Ch 01. Spark Ecosystem 기반 종합 실습|[링크]()|[링크]()|
-|CH 02. Hadoop Ecosystem 기반 종합 실습|[링크]()|[링크]()|
+|Ch 01. Spark Ecosystem 기반 종합 실습|||
+|CH 02. Hadoop Ecosystem 기반 종합 실습|||
